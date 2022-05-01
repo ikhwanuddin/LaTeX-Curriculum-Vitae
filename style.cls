@@ -1,5 +1,5 @@
 % Intro Options
-\ProvidesClass{rifqi-cv-openfont}[2022/04/30 CV class]
+\ProvidesClass{style}[2022/04/30 CV class]
 \NeedsTeXFormat{LaTeX2e}
 \DeclareOption{print}{\def\@cv@print{}}
 \DeclareOption*{%
